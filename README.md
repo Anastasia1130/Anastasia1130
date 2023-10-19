@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1>Hey there, I'm Anastasia!
 
-<!--
-**Anastasia1130/Anastasia1130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>My Projects:</h2>
 
-Here are some ideas to get you started:
+- <b></b>
+  - 
+<h2>Certifications;</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[CompTIA A+ ce](https://www.credly.com/badges/0864f804-690d-43cf-af5f-fd5f1154965e/public_url) [<img align="left" alt="Anastasia Polskaya | Cert Img" width="60px" src="https://i.ibb.co/GpPXJm6/comptia-a-ce-certification-1.png"/>]<br>
+<br>
+
+<h2> Connect with me:</h2>
+[linkedin]: https://www.linkedin.com/in/anastasia-p-3abb8b1aa/
