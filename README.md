@@ -6,7 +6,7 @@
   - 
 <h2>Certifications;</h2>
 
-[CompTIA A+ ce](https://www.credly.com/badges/0864f804-690d-43cf-af5f-fd5f1154965e/public_url) [<img align="left" alt="Anastasia Polskaya | Cert Img" width="60px" src="https://i.ibb.co/GpPXJm6/comptia-a-ce-certification-1.png"/>]<br>
+[CompTIA A+ ce](https://www.credly.com/badges/0864f804-690d-43cf-af5f-fd5f1154965e/public_url) <img align="left" alt="Anastasia Polskaya | Cert Img" width="60px" src="https://i.ibb.co/GpPXJm6/comptia-a-ce-certification-1.png"/><br>
 <br>
 
 <h2> Connect with me:</h2>
