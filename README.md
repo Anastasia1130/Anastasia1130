@@ -1,4 +1,4 @@
-<h1>Hey there, I'm Anastasia!
+<h1>Hey there, I'm Anastasia!</h1>
 
 <h2>My Projects:</h2>
 
