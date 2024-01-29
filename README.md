@@ -12,10 +12,13 @@
 <br>
 
 
+
 [CompTIA Project+](https://www.credly.com/badges/aad684e8-9f1a-4dd6-ae80-a3c3a5363cf8/public_url) <img align="left" alt="Anastasia Polskaya | Cert Img" width="60px" src="https://ibb.co/NCLm7Wn"/><br>
-
-
 <br>
+
+
+
+
 
 <h2> Connect with me:</h2>
 [linkedin]: https://www.linkedin.com/in/anastasia-p-3abb8b1aa/
