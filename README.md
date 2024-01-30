@@ -11,6 +11,7 @@
 [CompTIA A+ ce](https://www.credly.com/badges/0864f804-690d-43cf-af5f-fd5f1154965e/public_url) <img align="left" alt="Anastasia Polskaya | Cert Img" width="60px" src="https://i.ibb.co/GpPXJm6/comptia-a-ce-certification-1.png"/><br>
 <br>
 
+<br>
 
 
 [CompTIA Project+](https://www.credly.com/badges/aad684e8-9f1a-4dd6-ae80-a3c3a5363cf8/public_url) <img align="left" alt="Anastasia Polskaya | Cert Img" width="60px" src="https://i.ibb.co/XZk5167/comptia-project-certification-5.png"/><br>
