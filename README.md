@@ -13,7 +13,7 @@
 
 
 
-[CompTIA Project+](https://www.credly.com/badges/aad684e8-9f1a-4dd6-ae80-a3c3a5363cf8/public_url) <img align="left" alt="Anastasia Polskaya | Cert Img" width="60px" src="https://ibb.co/NCLm7Wn"/><br>
+[CompTIA Project+](https://www.credly.com/badges/aad684e8-9f1a-4dd6-ae80-a3c3a5363cf8/public_url) <img align="left" alt="Anastasia Polskaya | Cert Img" width="60px" src="https://i.ibb.co/XZk5167/comptia-project-certification-5.png"/><br>
 <br>
 
 
